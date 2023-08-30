@@ -39,7 +39,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://DoHunee.github.io/movie_app_pro",
+  "homepage": " https://dohunee.github.io/movie_app_pro/",
   "extends": [
     "next",
     "plugin:react/recommended",
